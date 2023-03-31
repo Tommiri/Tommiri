@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Tommi 👋</h1>
 <h3 align="center">An up-and-coming full-stack web developer from Finland</h3>
+<br />
 
 - 🔭 I’m currently working on [Full Stack Open](https://github.com/Tommiri/FullStackOpen)
 
@@ -7,8 +8,10 @@
 
 - 📫 Reach me at **tommi.riihelainen@gmail.com**
 
+<br />
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>  
@@ -72,10 +75,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-</p>
-
-<p style="text-align: center">
-  <img style="padding-right: 10px"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommiri&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6&count_private=true" alt="tommiri" />
-  <img style="padding-top: 10px; padding-right: 10px" align="center" src="https://github-readme-stats.vercel.app/api?username=tommiri&show_icons=true&theme=dark&locale=en&count_private=true" alt="tommiri" />
-  <img style="padding-top: 10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommiri&theme=dark&count_private=true" alt="tommiri" />
-</p>
+</div>
+<br />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommiri&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6&count_private=true" alt="tommiri" /> &nbsp &nbsp
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tommiri&show_icons=true&theme=dark&locale=en&count_private=true" alt="tommiri" />
+  <br /><br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommiri&theme=dark&count_private=true" alt="tommiri" />
+</div>

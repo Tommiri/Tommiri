@@ -2,16 +2,21 @@
 <h3 align="center">An up-and-coming full-stack web developer from Finland</h3>
 <br />
 
-- 🔭 I’m currently working on [Full Stack Open](https://github.com/Tommiri/FullStackOpen)
+<p align="center">
+🔭 I’m currently working on <a href="https://github.com/Tommiri/FullStackOpen"><b>Full Stack Open</b></a>
 
-- 🌱 I’m currently learning **TypeScript and Sequelize**
+<p align="center">
+🌱 I’m currently learning <b>TypeScript</b> and <b>Sequelize</b>
+</p>
 
-- 📫 Reach me at **tommi.riihelainen@gmail.com**
+<p align="center">
+📫 Reach me at <a href="mailto:tommi.riihelainen@gmail.com">tommi.riihelainen@gmail.com</a>
+</p>
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>  

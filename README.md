@@ -74,8 +74,8 @@
   </a>
 </p>
 
-<div style="text-align: center">
+<p style="text-align: center">
   <img style="padding-right: 10px"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommiri&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6&count_private=true" alt="tommiri" />
   <img style="padding-top: 10px; padding-right: 10px" align="center" src="https://github-readme-stats.vercel.app/api?username=tommiri&show_icons=true&theme=dark&locale=en&count_private=true" alt="tommiri" />
   <img style="padding-top: 10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommiri&theme=dark&count_private=true" alt="tommiri" />
-</div>
+</p>

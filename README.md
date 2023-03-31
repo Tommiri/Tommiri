@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tommi 👋</h1>
-<h3 align="center">A student and up-and-coming full-stack web developer from Finland</h3>
+<h3 align="center">A student and up-and-coming full-stack web developer from Tampere, Finland</h3>
 
 <p align="center">
 🔭 I’m currently working on <a href="https://github.com/Tommiri/FullStackOpen"><b>Full Stack Open</b></a>

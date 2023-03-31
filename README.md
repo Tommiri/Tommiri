@@ -13,8 +13,6 @@
 📫 Reach me at <a href="mailto:tommi.riihelainen@gmail.com">tommi.riihelainen@gmail.com</a>
 </p>
 
-<br />
-
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">

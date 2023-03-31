@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Full Stack Open](https://github.com/Tommiri/FullStackOpen)
 
-- 🌱 I’m currently learning **TypeScript, Sequelize**
+- 🌱 I’m currently learning **TypeScript and Sequelize**
 
-- 📫 How to reach me **tommi.riihelainen@gmail.com**
+- 📫 Reach me at **tommi.riihelainen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

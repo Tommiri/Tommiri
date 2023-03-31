@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommi</h1>
+<h1 align="center">Hi, I'm Tommi 👋</h1>
 <h3 align="center">A up-and-coming full-stack web developer from Finland</h3>
 
 - 🔭 I’m currently working on [Full Stack Open](https://github.com/Tommiri/FullStackOpen)

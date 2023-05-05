@@ -4,7 +4,7 @@
 <p align="center">
 🔭 I’m currently working on <a href="https://github.com/Tommiri/FullStackOpen"><b>Full Stack Open</b></a>
 <p align="center">
-🌱 I’m currently learning <b>TypeScript</b> and <b>Sequelize</b>
+🌱 I’m currently practicing using <b>Typescript</b> in <b>Node</b> and <b>React</b> apps.
 </p>
 <p align="center">
 📫 Reach me at <a href="mailto:tommi.riihelainen@gmail.com">tommi.riihelainen@gmail.com</a>
